@@ -1,5 +1,5 @@
 # Prolog
-Prolog
+Prolog Assessment
 
 
 CO884, Assessment 2, Prolog
